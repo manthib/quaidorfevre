@@ -17531,3 +17531,8 @@ body {
 #section1 > div > div > div > div.collection-block.dark-bottom-border > div > div.row > div:nth-child(1) > div > div > div > div > h2{
 	margin-bottom: 134px;
 }
+
+#main > div.container.padding-top-90.padding-bottom-90{
+	background: black;
+	width: 100%;
+}
